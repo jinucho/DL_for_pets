@@ -2,26 +2,26 @@
 
 
 
-# 🤖 머신러닝 프로젝트(당뇨병 예측모델)</br>Diabetes predictive modeling
-- Team : Mean_30
+# 딥러닝 프로젝트(강아지 안구 질병 예측)</br>Dog eye disease prediction
+- Team : 숨참고딥다이브
 
 ## :sunny:팀구성 
-  * 🏆팀명: Mean_30 (평균 30세)
-  * 👥팀원 : 송영달, 송은민, 임창성, 조진우, 함은규
-  * :clock1:시작일 : 2023.12.26(화)
-  * ⏰목표일 : 2024.01.05(금)
+  * 👥팀원 : 김유진, 송영달, 이수현, 이호, 조진우
+  * :clock1:시작일 : 2024.01.29(월)
+  * ⏰목표일 : 2024.02.08(목)
 
 ## 목차(INDEX)
 &emsp;&ensp;Ⅰ. 🏁프로젝트 목적  
-&emsp;&emsp;&emsp;- 당뇨병을 예측모델을 개발 : 미국(NHIS) 자료 바탕  
-&emsp;&ensp;Ⅱ. 📑원본 데이터의 구성확인 (1차 분류)   
-&emsp;&emsp;&emsp;- Datafile : CSV 5종 (csv, summary, layout, imputed incomes and paradata etc.  
-&emsp;&ensp;Ⅲ. 📑원본 데이터 분석 (2차 분류)  
-&emsp;&emsp;&emsp;1. 원본데이터 분류   
-&emsp;&emsp;&emsp;2. Column(이하:Feature) 필터링 (Feature Selection : Feature extraction)   
-&emsp;&ensp;Ⅳ. 📋데이터 전처리   
-&emsp;&emsp;&emsp;1. Datafile 통합(merge)  
-&emsp;&emsp;&emsp;2. 결측값(nan) 처리   
+&emsp;&emsp;&emsp;- 반려견 안구 사진을 통한 질병 예측 서비스 개발
+&emsp;&ensp;Ⅱ. 📑데이터의 구성확인
+&emsp;&emsp;&emsp;- 출처 : [AIHub](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=562)
+&emsp;&emsp;&emsp;- Datafile : 이미지 & json
+&emsp;&ensp;Ⅲ. 📑원본 데이터 분석  
+&emsp;&emsp;&emsp;1. 질병 종류 확인
+&emsp;&emsp;&emsp;2. 질병 별 이미지 확인 
+&emsp;&emsp;&emsp;3. json file 형식 확인
+&emsp;&ensp;Ⅳ. 📋데이터셋 구성   
+&emsp;&emsp;&emsp;1. 이미지 및 json의 필요한 label만 추출하여 데이터셋 구성
 &emsp;&ensp;Ⅴ. ✔학습 모델과 모델 성능평가  
 &emsp;&ensp;Ⅵ. 🚨프로젝트의 아쉬운 점 과 사용기술  
 &emsp;&ensp;Ⅶ. 📶자료출처  
