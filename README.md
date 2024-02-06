@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/jinucho/Diabetes-prediction/assets/133849027/9ec602aa-0a3e-45c9-8978-625ab4b8b3db" width="300" height="300"/>
+<p align="center"><img src="![image](https://github.com/jinucho/DL_for_pets/assets/133849027/410151d3-efd0-4ef5-ad49-4086918136fa)" width="300" height="300"/>
 
 
 
