@@ -27,7 +27,7 @@
 &emsp;&emsp;&emsp; 이미지 및 json의 필요한 label만 추출하여 데이터셋 구성</br>
 &emsp;&ensp;Ⅴ. ✔학습 모델과 모델 성능평가</br>
 &emsp;&emsp;&emsp; AlexNet / VGG19 / ViT / ResNet50 / DenseNet201 / GoogleNet</br>
-&emsp;&emsp;&emsp;1. AlexNet
+&emsp;&emsp;&emsp;1. AlexNet</br>
 &emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/c341d4d9-101c-4a6d-bf0e-2da9afe14cb7" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/e8d27982-1a32-4b8a-92df-c3145bbdc913" width="300">
 
 
