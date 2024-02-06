@@ -11,7 +11,7 @@
   * ⏰목표일 : 2024.02.08(목)
 
 ## 목차(INDEX)
-&emsp;&ensp;Ⅰ. 🏁프로젝트 목적
+&emsp;&ensp;Ⅰ. 🏁프로젝트 목적</br>
 &emsp;&emsp;&emsp;- 반려견 안구 사진을 통한 질병 예측 서비스 개발</br>
 &emsp;&ensp;Ⅱ. 📑데이터의 구성확인</br>
 &emsp;&emsp;&emsp;- 출처 : [AIHub](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=562)</br>
