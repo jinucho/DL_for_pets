@@ -1,7 +1,4 @@
-<p align="center"><img src="https://github.com/jinucho/DL_for_pets/assets/133849027/ef0c898e-2196-4cd9-a3b3-e3f9922781d0" width="300" height="300"/>
-
-
-
+<p align="center"><img src="https://github.com/jinucho/DL_for_pets/assets/151902373/6ce0d274-0387-49c2-a898-287427eb69c5" width="300" height="300"/>
 
 
 # 딥러닝 프로젝트(강아지 안구 질병 예측)</br>Dog eye disease prediction
