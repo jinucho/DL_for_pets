@@ -1,4 +1,5 @@
-<p align="center"><img src="![image](https://github.com/jinucho/DL_for_pets/assets/133849027/410151d3-efd0-4ef5-ad49-4086918136fa)" width="300" height="300"/>
+<p align="center"><img src="https://github.com/jinucho/DL_for_pets/assets/133849027/45f7cab1-7fdb-4acb-a850-863165de26c3" width="300" height="300"/>
+
 
 
 
