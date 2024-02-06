@@ -39,6 +39,10 @@
 &emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/d8204638-e11b-44f6-afc8-a1394cc290fd" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/9d0ca8b3-f9a1-42d5-ad4c-5ea4afd5ecb6" width="300"></br>
 &emsp;&emsp;&emsp;6. GoogleNet</br>
 &emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/2e984a82-81d9-4a32-8f58-2b26be0b4d4c" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/17d900b9-944f-407f-8be3-6765cff0a0a1" width="300"></br>
+&emsp;&emsp;&emsp; Model 성능 비교</br>
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/b86f68c2-5644-4695-9894-9224635b1cbc" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/3036be51-e685-44f0-bc16-052c4690769e" width="300"></br>
+
+
 
 
 
