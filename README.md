@@ -28,7 +28,7 @@
 &emsp;&ensp;Ⅴ. ✔학습 모델과 모델 성능평가</br>
 &emsp;&emsp;&emsp; AlexNet / VGG19 / ViT / ResNet50 / DenseNet201 / GoogleNet</br>
 &emsp;&emsp;&emsp;1. AlexNet
-&emsp;&emsp;&emsp;![image](https://github.com/jinucho/DL_for_pets/assets/133849027/815acc56-541f-4340-86b7-6a621279cba4) ![image](https://github.com/jinucho/DL_for_pets/assets/133849027/30d4427b-ad15-4df4-96be-8a0f4974d6e1)
+&emsp;&emsp;&emsp;![image](https://github.com/jinucho/DL_for_pets/assets/133849027/815acc56-541f-4340-86b7-6a621279cba4)![image](https://github.com/jinucho/DL_for_pets/assets/133849027/30d4427b-ad15-4df4-96be-8a0f4974d6e1)
 
 
 
