@@ -43,7 +43,7 @@
 &emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/b86f68c2-5644-4695-9894-9224635b1cbc" width="400"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/3036be51-e685-44f0-bc16-052c4690769e" width="400"></br>
 
 &emsp;&ensp;VI. 📑Streamlit 서비스</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/4c5eb98c-a4f6-47e0-b51e-2a673d03c3bd" width="500"></br>
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/4c5eb98c-a4f6-47e0-b51e-2a673d03c3bd" width="700"></br>
 
 
 
