@@ -28,17 +28,17 @@
 &emsp;&ensp;Ⅴ. ✔학습 모델과 모델 성능평가</br>
 &emsp;&emsp;&emsp; AlexNet / VGG19 / ViT / ResNet50 / DenseNet201 / GoogleNet</br>
 &emsp;&emsp;&emsp;1. AlexNet</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/c341d4d9-101c-4a6d-bf0e-2da9afe14cb7" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/e8d27982-1a32-4b8a-92df-c3145bbdc913" width="300">
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/c341d4d9-101c-4a6d-bf0e-2da9afe14cb7" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/e8d27982-1a32-4b8a-92df-c3145bbdc913" width="300"></br>
 &emsp;&emsp;&emsp;2. VGG19</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/bb09327a-64cb-47d2-8894-a9941f59d641" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/5e28eb7b-28ec-432a-9090-d536a3225a79" width="300">
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/bb09327a-64cb-47d2-8894-a9941f59d641" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/5e28eb7b-28ec-432a-9090-d536a3225a79" width="300"></br>
 &emsp;&emsp;&emsp;3. ViT</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/e0b0e686-062c-455a-86ea-8c9f71bc344a" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/fd7f9dec-b5b8-4053-affc-d92ea7adcfda" width="300">
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/e0b0e686-062c-455a-86ea-8c9f71bc344a" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/fd7f9dec-b5b8-4053-affc-d92ea7adcfda" width="300"></br>
 &emsp;&emsp;&emsp;4. ResNet50</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/e0de7335-f4af-4582-8933-66e353598870" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/ffac6f22-92f6-4163-85c5-65bf7e3e18db" width="300">
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/e0de7335-f4af-4582-8933-66e353598870" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/ffac6f22-92f6-4163-85c5-65bf7e3e18db" width="300"></br>
 &emsp;&emsp;&emsp;5. DenseNet201</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/d8204638-e11b-44f6-afc8-a1394cc290fd" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/9d0ca8b3-f9a1-42d5-ad4c-5ea4afd5ecb6" width="300">
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/d8204638-e11b-44f6-afc8-a1394cc290fd" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/9d0ca8b3-f9a1-42d5-ad4c-5ea4afd5ecb6" width="300"></br>
 &emsp;&emsp;&emsp;6. GoogleNet</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/2e984a82-81d9-4a32-8f58-2b26be0b4d4c" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/17d900b9-944f-407f-8be3-6765cff0a0a1" width="300">
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/2e984a82-81d9-4a32-8f58-2b26be0b4d4c" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/17d900b9-944f-407f-8be3-6765cff0a0a1" width="300"></br>
 
 
 
