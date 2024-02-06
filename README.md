@@ -20,6 +20,8 @@
 &emsp;&ensp;Ⅲ. 📑원본 데이터 분석</br>
 &emsp;&emsp;&emsp;1. 질병 종류 확인</br>
 &emsp;&emsp;&emsp;2. 질병 별 이미지 확인</br>
+![image](https://github.com/jinucho/DL_for_pets/assets/133849027/1966441a-11e7-4aa0-ba07-0b45a9f2b77b)
+
 &emsp;&emsp;&emsp;3. json file 형식 확인</br>
 &emsp;&ensp;Ⅳ. 📋데이터셋 구성</br>
 &emsp;&emsp;&emsp; 이미지 및 json의 필요한 label만 추출하여 데이터셋 구성</br>
