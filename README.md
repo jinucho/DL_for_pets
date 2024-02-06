@@ -13,15 +13,19 @@
 ## 목차(INDEX)
 &emsp;&ensp;Ⅰ. 🏁프로젝트 목적  
 &emsp;&emsp;&emsp;- 반려견 안구 사진을 통한 질병 예측 서비스 개발
+
 &emsp;&ensp;Ⅱ. 📑데이터의 구성확인
 &emsp;&emsp;&emsp;- 출처 : [AIHub](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=562)
 &emsp;&emsp;&emsp;- Datafile : 이미지 & json
+
 &emsp;&ensp;Ⅲ. 📑원본 데이터 분석  
 &emsp;&emsp;&emsp;1. 질병 종류 확인
 &emsp;&emsp;&emsp;2. 질병 별 이미지 확인 
 &emsp;&emsp;&emsp;3. json file 형식 확인
+
 &emsp;&ensp;Ⅳ. 📋데이터셋 구성   
 &emsp;&emsp;&emsp;1. 이미지 및 json의 필요한 label만 추출하여 데이터셋 구성
+
 &emsp;&ensp;Ⅴ. ✔학습 모델과 모델 성능평가  
 &emsp;&ensp;Ⅵ. 🚨프로젝트의 아쉬운 점 과 사용기술  
 &emsp;&ensp;Ⅶ. 📶자료출처  
