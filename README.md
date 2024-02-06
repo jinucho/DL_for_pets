@@ -23,8 +23,8 @@
 &emsp;&ensp;Ⅳ. 📋데이터셋 구성</br>
 &emsp;&emsp;&emsp;1. 이미지 및 json의 필요한 label만 추출하여 데이터셋 구성</br>
 &emsp;&ensp;Ⅴ. ✔학습 모델과 모델 성능평가</br>
-&emsp;&ensp;Ⅵ. 🚨프로젝트의 아쉬운 점 과 사용기술</br>  
-&emsp;&ensp;Ⅶ. 📶자료출처</br>
+&emsp;&emsp;&emsp;1. AlexNet / VGG19 / ViT / ResNet50 / DenseNet201 / GoogleNet</br>
+&emsp;&ensp;Ⅵ. 🚨사용기술</br>
 
 ## Ⅰ. 프로젝트 목적 : 머신러닝을 이용한 당뇨병 예측모델 개발</br>Purpose : Build a Predictive modeling of checking diabetes by using machine learning  
   * 처리과정(Processing)  
