@@ -27,5 +27,8 @@
 &emsp;&emsp;&emsp; 이미지 및 json의 필요한 label만 추출하여 데이터셋 구성</br>
 &emsp;&ensp;Ⅴ. ✔학습 모델과 모델 성능평가</br>
 &emsp;&emsp;&emsp; AlexNet / VGG19 / ViT / ResNet50 / DenseNet201 / GoogleNet</br>
+&emsp;&emsp;&emsp;1. AlexNet
+
+
 &emsp;&ensp;Ⅵ. 🚨사용기술</br>
 &emsp;&emsp;&emsp; Python / Pytorch / pandas / streamlit / flask / etc...</br>
