@@ -26,24 +26,21 @@
 &emsp;&ensp;Ⅴ. ✔학습 모델과 모델 성능평가</br>
 &emsp;&emsp;&emsp; AlexNet / VGG19 / ViT / ResNet50 / DenseNet201 / GoogleNet</br>
 &emsp;&emsp;&emsp;1. AlexNet</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/c341d4d9-101c-4a6d-bf0e-2da9afe14cb7" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/e8d27982-1a32-4b8a-92df-c3145bbdc913" width="300"></br>
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/7b10dc43-7501-4542-ab28-09d7be98d87b" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/71d14882-3010-4170-9f02-f46afe29b229" width="300"></br>
 &emsp;&emsp;&emsp;2. VGG19</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/bb09327a-64cb-47d2-8894-a9941f59d641" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/5e28eb7b-28ec-432a-9090-d536a3225a79" width="300"></br>
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/035a63ef-ebd8-48c3-9db1-b3f850af048c" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/15f9a183-a611-45b9-a757-f8c251e76803" width="300"></br>
 &emsp;&emsp;&emsp;3. ViT</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/e0b0e686-062c-455a-86ea-8c9f71bc344a" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/fd7f9dec-b5b8-4053-affc-d92ea7adcfda" width="300"></br>
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/66013dc7-ef86-45cb-948d-4740a9ba1b7d" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/65ee3e47-4d85-4bac-bcaa-d1626a552c85" width="300"></br>
 &emsp;&emsp;&emsp;4. ResNet50</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/e0de7335-f4af-4582-8933-66e353598870" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/ffac6f22-92f6-4163-85c5-65bf7e3e18db" width="300"></br>
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/fb318485-7cfa-4a4f-a30c-7f39017fd384" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/28292bac-55e9-4199-9a1d-258ac5e520f7" width="300"></br>
 &emsp;&emsp;&emsp;5. DenseNet201</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/d8204638-e11b-44f6-afc8-a1394cc290fd" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/9d0ca8b3-f9a1-42d5-ad4c-5ea4afd5ecb6" width="300"></br>
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/fdf059bd-63a6-4fcb-bf23-6209fe2dbed5" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/841aec41-586d-4833-bd39-e5c9de86cd46" width="300"></br>
 &emsp;&emsp;&emsp;6. GoogleNet</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/2e984a82-81d9-4a32-8f58-2b26be0b4d4c" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/17d900b9-944f-407f-8be3-6765cff0a0a1" width="300"></br>
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/d7ab901c-255b-471d-810a-a72cb179de0c" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/b5837a0f-90fa-4845-a2b2-debf2c213520" width="300"></br>
 &emsp;&emsp;&emsp; Model 성능 비교</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/b86f68c2-5644-4695-9894-9224635b1cbc" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/3036be51-e685-44f0-bc16-052c4690769e" width="300"></br>
-
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/ba990145-71c4-49ee-8e46-63eacf050a31" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/e179f70b-4803-4995-9b8f-628d58207035" width="300"></br>
 &emsp;&ensp;VI. 📑Streamlit 서비스</br>
 &emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/4c5eb98c-a4f6-47e0-b51e-2a673d03c3bd" width="700"></br>
-
-
 
 &emsp;&ensp;Ⅵ. 🚨사용기술</br>
 &emsp;&emsp;&emsp; Python / Pytorch / pandas / streamlit / flask / etc...</br>
