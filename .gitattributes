@@ -1,2 +1,0 @@
-Dog_Eye_disease filter=lfs diff=lfs merge=lfs -text
-Dog_Eye_disease.zip filter=lfs diff=lfs merge=lfs -text
