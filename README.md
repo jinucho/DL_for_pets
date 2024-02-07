@@ -17,7 +17,7 @@
 &emsp;&emsp;&emsp;2.- 데이터파일 구성  : 이미지 & json</br>
 &emsp;&ensp;Ⅲ. 📑원본 데이터 분석</br>
 &emsp;&emsp;&emsp;1. 질병 종류 확인</br>
-&emsp;&emsp;&emsp; 결막염 / 궤양성각막질환 / 백내장 / 비궤양성각막질환 / 색소침착성각막염 / 안검내반증 / 안검염 / 안검종양 / 유루증 / 핵경화
+&emsp;&emsp;&emsp; 결막염 / 궤양성각막질환 / 백내장 / 비궤양성각막질환 / 색소침착성각막염 / 안검내반증 / 안검염 / 안검종양 / 유루증 / 핵경화</br>
 &emsp;&emsp;&emsp;2. 학습에 사용할 질병 별 이미지 확인</br>
 &emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/1966441a-11e7-4aa0-ba07-0b45a9f2b77b" width="300"></br>
 &emsp;&emsp;&emsp;3. json file 형식 확인</br>
