@@ -19,7 +19,7 @@
 &emsp;&emsp;&emsp;1. 질병 종류 확인</br>
 &emsp;&emsp;&emsp; 결막염 / 궤양성각막질환 / 백내장 / 비궤양성각막질환 / 색소침착성각막염 / 안검내반증 / 안검염 / 안검종양 / 유루증 / 핵경화</br>
 &emsp;&emsp;&emsp;2. 학습에 사용할 질병 별 이미지 및 json file 형식 확인</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/74d6cd6e-e303-440e-a8f4-2141973c45fd" width="300"></br>
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/74d6cd6e-e303-440e-a8f4-2141973c45fd" width="600" height="300"></br>
 &emsp;&ensp;Ⅳ. 📋데이터셋 구성</br>
 &emsp;&emsp;&emsp;1. 이미지 및 json의 필요한 label만 추출하여 데이터셋 구성</br>
 &emsp;&emsp;&emsp;2. 각 이미지와 label을 통해 질병(6종류)당 one-hot vector 1개를 target으로 지정</br>
