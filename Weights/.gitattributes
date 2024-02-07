@@ -1,2 +1,1 @@
 C:Usersusergit_dog_upload2best_Alex.pth filter=lfs diff=lfs merge=lfs -text
-best_ViT.pth filter=lfs diff=lfs merge=lfs -text
