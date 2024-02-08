@@ -47,4 +47,3 @@
 
 &emsp;&ensp;VIII. 🚨사용기술</br>
 ![image](https://github.com/jinucho/DeepDive/assets/133849027/5c1ac76c-a1a7-41c8-8c8c-ccba2fcf1805)
-&emsp;&emsp;&emsp; Python / Pytorch / pandas / streamlit / flask / Matplotlib / Seaborn etc...</br>
