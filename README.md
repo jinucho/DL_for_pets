@@ -23,7 +23,7 @@
 &emsp;&ensp;Ⅳ. 📋데이터셋 구성</br>
 &emsp;&emsp;&emsp;1. 이미지 및 json의 필요한 label만 추출하여 데이터셋 구성</br>
 &emsp;&emsp;&emsp;2. 각 이미지와 label을 통해 질병(6종류)당 one-hot vector 1개를 target으로 지정</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/f196b62d-c0a2-4991-a4f8-d245ffb4f433" width="600" height="300"></br>
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DeepDive/assets/133849027/a0746514-d843-42dd-a583-82a7ab9379cc" width="600" height="300"></br>
 &emsp;&ensp;Ⅴ. ✔학습 모델과 모델 성능평가</br>
 &emsp;&emsp;&emsp; AlexNet / VGG19 / ViT / ResNet50 / DenseNet201 / GoogleNet</br>
 &emsp;&emsp;&emsp;1. AlexNet</br>
