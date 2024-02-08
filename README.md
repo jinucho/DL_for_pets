@@ -19,12 +19,14 @@
 &emsp;&emsp;&emsp;1. 질병 종류 확인</br>
 &emsp;&emsp;&emsp; 결막염 / 궤양성각막질환 / 백내장 / 비궤양성각막질환 / 색소침착성각막염 / 안검내반증 / 안검염 / 안검종양 / 유루증 / 핵경화</br>
 &emsp;&emsp;&emsp;2. 학습에 사용할 질병 별 이미지 및 json file 형식 확인</br>
-&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/74d6cd6e-e303-440e-a8f4-2141973c45fd" width="600" height="300"></br>
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DeepDive/assets/133849027/877b6c7e-9395-438c-a29e-51acc5158a14" width="600" height="300"></br>
 &emsp;&ensp;Ⅳ. 📋데이터셋 구성</br>
 &emsp;&emsp;&emsp;1. 이미지 및 json의 필요한 label만 추출하여 데이터셋 구성</br>
 &emsp;&emsp;&emsp;2. 각 이미지와 label을 통해 질병(6종류)당 one-hot vector 1개를 target으로 지정</br>
 &emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DeepDive/assets/133849027/a0746514-d843-42dd-a583-82a7ab9379cc" width="600" height="300"></br>
-&emsp;&ensp;Ⅴ. ✔학습 모델과 모델 성능평가</br>
+&emsp;&ensp;Ⅴ. ✔안구 이미지 crop을 위한 YOLO 학습</br>
+&emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DeepDive/assets/133849027/19864608-2461-4427-a88f-d1394a3f9fc2" width="600" height="300"></br>
+&emsp;&ensp;VI. ✔학습 모델과 모델 성능평가</br>
 &emsp;&emsp;&emsp; AlexNet / VGG19 / ViT / ResNet50 / DenseNet201 / GoogleNet</br>
 &emsp;&emsp;&emsp;1. AlexNet</br>
 &emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/7b10dc43-7501-4542-ab28-09d7be98d87b" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/71d14882-3010-4170-9f02-f46afe29b229" width="300"></br>
@@ -40,8 +42,8 @@
 &emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/d7ab901c-255b-471d-810a-a72cb179de0c" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/b5837a0f-90fa-4845-a2b2-debf2c213520" width="300"></br>
 &emsp;&emsp;&emsp; Model 성능 비교</br>
 &emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/ba990145-71c4-49ee-8e46-63eacf050a31" width="300"> <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/e179f70b-4803-4995-9b8f-628d58207035" width="300"></br>
-&emsp;&ensp;VI. 📑Streamlit 서비스</br>
+&emsp;&ensp;VII. 📑Streamlit 서비스</br>
 &emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/4c5eb98c-a4f6-47e0-b51e-2a673d03c3bd" width="700"></br>
 
-&emsp;&ensp;Ⅵ. 🚨사용기술</br>
+&emsp;&ensp;VIII. 🚨사용기술</br>
 &emsp;&emsp;&emsp; Python / Pytorch / pandas / streamlit / flask / etc...</br>
