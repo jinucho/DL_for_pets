@@ -46,4 +46,5 @@
 &emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DL_for_pets/assets/133849027/4c5eb98c-a4f6-47e0-b51e-2a673d03c3bd" width="700"></br>
 
 &emsp;&ensp;VIII. 🚨사용기술</br>
-&emsp;&emsp;&emsp; Python / Pytorch / pandas / streamlit / flask / etc...</br>
+![image](https://github.com/jinucho/DeepDive/assets/133849027/5c1ac76c-a1a7-41c8-8c8c-ccba2fcf1805)
+&emsp;&emsp;&emsp; Python / Pytorch / pandas / streamlit / flask / Matplotlib / Seaborn etc...</br>
