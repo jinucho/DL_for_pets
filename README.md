@@ -25,6 +25,8 @@
 &emsp;&emsp;&emsp;2. 각 이미지와 label을 통해 질병(6종류)당 one-hot vector 1개를 target으로 지정</br>
 &emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DeepDive/assets/133849027/a0746514-d843-42dd-a583-82a7ab9379cc" width="600" height="300"></br>
 &emsp;&ensp;Ⅴ. ✔안구질환 식별 프로세스</br>
+![image](https://github.com/jinucho/DeepDive/assets/133849027/505c096a-6a8f-4b8b-98dd-47779ba54857)
+
 &emsp;&emsp;&emsp; <img src="https://github.com/jinucho/DeepDive/assets/133849027/83e3b904-ec73-47fd-831d-33c72f2feefa" width="800" height="300"></br>
 &emsp;&ensp;VI. ✔학습 모델과 모델 성능평가</br>
 &emsp;&emsp;&emsp; AlexNet / VGG19 / ViT / ResNet50 / DenseNet201 / GoogleNet</br>
